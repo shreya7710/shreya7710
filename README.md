@@ -1,5 +1,5 @@
-<img src="![image](https://github.com/user-attachments/assets/6eb3eabe-a6a7-4d42-be7b-80a498ef111f)
-">
+[![Masterhead](https://github.com/user-attachments/assets/6eb3eabe-a6a7-4d42-be7b-80a498ef111f)
+
 Hey there! I am Shreya Dhadse
 
 ## GSSoC'24 Badges 🪶
